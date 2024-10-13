@@ -1,7 +1,4 @@
 <h2 align="left">Hello 👋!</h2>
-
-###
-
 <img align="right" height="150" src="saerom.gif"  />
 
 ###
