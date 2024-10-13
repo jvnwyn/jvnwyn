@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://tenor.com/view/song-hayoung-hayoung-hanyang-habbang-fromis-gif-7653678880135365517)"  />
+<img align="right" height="150" src="https://tenor.com/view/song-hayoung-hayoung-hanyang-habbang-fromis-gif-7653678880135365517"  />
 
 ###
 
