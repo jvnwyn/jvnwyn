@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jovan Wayne Andrade and I'm a 2nd year Computer Science student, from General Mariano Alvarez, Cavite.</h2>
+<h2 align="left">Hello 👋! my name is Jovan Wayne Andrade, and I am a second-year Computer Science student from General Mariano Alvarez, Cavite.</h2>
 
 ###
 
