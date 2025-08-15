@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">I am a college sophomore pursuing a Bachelor’s degree in Computer Science, based in General Mariano Alvarez, Cavite.</h3>
+<h3 align="center">I am a college junior pursuing a Bachelor’s degree in Computer Science.</h3>
 
 ###
 <div align="center">
